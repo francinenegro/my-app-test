@@ -1,0 +1,20 @@
+{
+    "cards":  [
+        {
+            "title": "React for designers",
+            "text":  "12 sections",
+            "image": "/images/wallpaper2.jpg"
+        },
+        {
+            "title": "Learn Framer X",
+            "text":  "10 sections",
+            "image": "/images/wallpaper3.jpg"
+        },
+        {
+            "title": "Learn Figma",
+            "text":  "12 sections",
+            "image": "/images/wallpaper4.jpg"
+        }
+    ]
+
+}
